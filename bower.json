@@ -1,0 +1,6 @@
+{
+    "name": "tes",
+    "dependencies": {
+        "pdfjs-dist": "latest"
+    }
+}

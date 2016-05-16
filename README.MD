@@ -1,0 +1,1 @@
+Sample project to explore issues with pdf.js when used with require.js.
